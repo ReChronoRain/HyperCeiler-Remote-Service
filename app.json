@@ -13,5 +13,7 @@
     "miuiBigVersion": [],
     "miuiSmallVersion": [],
     "lang": [],
-    "signCheckPassNeed": true
+    "signCheckPassNeed": true,
+    "protocolVersion": 3,
+    "privacyVersion": 2,
 }
